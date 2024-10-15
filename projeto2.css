@@ -43,6 +43,6 @@ footer{
 .cartao-resposta{
     padding: 2rem;
     text-align: center;
-    background-color: var(--resposta);
+    background-color: var(--branco);
     display: none;
 }
