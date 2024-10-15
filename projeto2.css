@@ -39,3 +39,10 @@ footer{
     border-radius: 5px;
     box-shadow: 2px 2px 2px 2px var(--preto);
 }
+
+.cartao-resposta{
+    padding: 2rem;
+    text-align: center;
+    background-color: var(--resposta);
+    display: none;
+}
